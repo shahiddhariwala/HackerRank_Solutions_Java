@@ -23,7 +23,7 @@ public class Divisible_Sum_Pairs
 				}
 			}
 		}
-		return k;
+		return count;
 
 	}
 }
