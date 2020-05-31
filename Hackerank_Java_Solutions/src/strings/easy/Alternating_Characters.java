@@ -5,7 +5,7 @@ Twitter  : https://twitter.com/shahiddhariwala
 Date     : 01-Jun-2020
 */
 
-package implementation.easy;
+package strings.easy;
 
 import java.util.Stack;
 
