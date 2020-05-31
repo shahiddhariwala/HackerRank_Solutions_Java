@@ -5,7 +5,7 @@ Twitter  : https://twitter.com/shahiddhariwala
 Date     : 31-May-2020
 */
 
-package warmup.easy;
+package implementation.easy;
 
 import java.util.Scanner;
 
