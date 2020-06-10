@@ -23,7 +23,6 @@ public class Circular_Array_Rotation
 			ans[i] = newArray[queries[i]];
 		}
 		return ans;
-
 	}
 }
 
