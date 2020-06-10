@@ -5,7 +5,7 @@ Twitter  : https://twitter.com/shahiddhariwala
 Date     : 10-Jun-2020
 */
 
-package implementation.medium;
+package implementation.easy;
 
 public class Circular_Array_Rotation
 {

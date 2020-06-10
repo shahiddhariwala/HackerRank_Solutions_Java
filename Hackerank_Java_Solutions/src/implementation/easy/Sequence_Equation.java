@@ -6,7 +6,7 @@ Date     : 10-Jun-2020
 */
 
 
-package implementation.medium;
+package implementation.easy;
 
 import java.util.HashMap;
 
